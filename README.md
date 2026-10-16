@@ -1,9 +1,4 @@
 <h1 align="center">Hi 😊, I'm Dawid</h1>
-<h3 align="center">Life tester, optimist and computer science student who tries to be a better person every day :)</h3>
-
-- 🌱 I’m currently learning **frontend technologies**
-
-- ⚡ Fun fact **"It's easy to talk. Show me the code." ~ Linus Torvalds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
